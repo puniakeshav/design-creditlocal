@@ -1,0 +1,28 @@
+.resources{
+    flex: 12;
+    display: flex;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.flex12{
+    flex: 12;
+    display: flex;
+    flex-wrap:wrap;
+}
+
+.map{
+    display:flex;
+    flex-direction: column;
+}
+
+.map h{
+    font-size: 25px;
+    font-family: "Josefin Sans", sans-serif;
+}
+
+p{
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: "Josefin Sans", sans-serif;
+}
